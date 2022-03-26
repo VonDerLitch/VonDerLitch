@@ -1,4 +1,4 @@
-## Olá mundo, Aqui é o <strong>Pincipe Ignorante<strong> e seja Bem-vindo(a)!
+## Olá mundo, Aqui é o <strong>Principe Ignorante<strong> e seja Bem-vindo(a)!
 <div align="center">
   <a href="https://github.com/VonDerLitch">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VonDerLitch&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
