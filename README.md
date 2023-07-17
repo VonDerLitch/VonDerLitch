@@ -1,4 +1,4 @@
-## Olá mundo, Aqui é o <strong>Niflheim Mørke<strong> e seja Bem-vindo(a)!
+## Hello World, I'am <strong>Niflheim Mørke<strong>, and you are Welcome!
 <div align="center">
   <a href="https://github.com/VonDerLitch">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VonDerLitch&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
