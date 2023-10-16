@@ -11,7 +11,6 @@
   <img align="center" alt="kelvin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="kelvin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="kelvin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Kelvin-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/197705_p8jXTeBI.png">
 </div>
   
   ##
