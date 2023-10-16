@@ -1,6 +1,7 @@
 ## Hello World, I'am <strong>Kelvin Silveira<strong>, and you are Welcome!
 <div align="center">
   <a href="https://github.com/VonDerLitch">
+  <h2>Evolving a little more every day, currently focusing on Java and Python</h2>
 
 </div>
 <div style="display: inline_block"><br>
