@@ -2,6 +2,7 @@
 <div align="center">
   <a href="https://github.com/VonDerLitch">
   <h2>Evolving a little more every day, currently focusing on Java and Python</h2>
+  <h3>Studying and creating projects with Google Cloud</h3>
 
 </div>
 <div style="display: inline_block"><br>
