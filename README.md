@@ -1,8 +1,8 @@
 ## Hello World, I'am <strong>Kelvin Silveira<strong>, and you are Welcome!
 <div align="center">
   <a href="https://github.com/VonDerLitch">
-  <h2>Evolving a little more every day, currently focusing on Java and Python</h2>
-  <h3>Studying and creating projects with Google Cloud</h3>
+  <h2>I am currently interested in the areas of machine learning, cloud, software development, data science</h2>
+  <h3>Evolving a little more every day, currently focusing on Java and Python, Studying and creating projects with Google Cloud</h3>
 
 </div>
 <div style="display: inline_block"><br>
